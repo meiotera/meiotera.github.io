@@ -3,3 +3,6 @@
     align-items: center;
     justify-content: center;
 }
+.mobile-site-title a {
+    color: #eee;
+}
